@@ -1,7 +1,7 @@
-"""Berilgan son bo`yicha faktorial
-hisoblovchi dastur
-Tuzuvchi: Mukhtorjon Tuychiev
-Sana: 05.09.2022 yil"""
+"""Factorial calculation program 
+based on the entered number
+Editor: Mukhtorjon Tuychiev
+Date: 05.09.2022 yil"""
 def faktorial(n):
    m=1
    for i in range(1,n+1):
