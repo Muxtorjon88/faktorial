@@ -1,2 +1,2 @@
 # faktorial
-Kiritilgan son bo`yicha faktorail hisoblovchi dastur
+Factorial calculation program based on the entered number
